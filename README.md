@@ -1,6 +1,10 @@
-# basic
+![image](https://github.com/Baibhav008/Flutter-Portfolio/assets/119806719/d3c7a544-766e-4723-a077-81fbeb84f831)# basic
 
 A new Flutter project.
+
+A basic Portfolio Application
+![Uploading image.png…]()
+
 
 ## Getting Started
 
@@ -14,3 +18,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
