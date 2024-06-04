@@ -1,9 +1,11 @@
-![image](https://github.com/Baibhav008/Flutter-Portfolio/assets/119806719/d3c7a544-766e-4723-a077-81fbeb84f831)# basic
+
 
 A new Flutter project.
 
 A basic Portfolio Application
-![Uploading image.png…]()
+
+![image](https://github.com/Baibhav008/Flutter-Portfolio/assets/119806719/d3c7a544-766e-4723-a077-81fbeb84f831)
+
 
 
 ## Getting Started
